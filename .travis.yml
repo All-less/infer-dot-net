@@ -1,0 +1,9 @@
+language: csharp
+
+dotnet: 2.1.3
+
+install:
+  - dotnet add package Microsoft.Research.InferNET --version 2.6.41114.1
+
+script:
+  - cd CommandLine && dotnet build
