@@ -1,8 +1,10 @@
 # infer-dot-net
 
+[![Travis](https://img.shields.io/travis/All-less/infer-dot-net.svg?style=flat)]()
+
 .NET Core port of [Infer.NET](http://research.microsoft.com/infernet).
 
-### Build
+### Setup
 
 Run followings commands to build DDL's.
 
