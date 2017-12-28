@@ -16,7 +16,7 @@ dotnet build
 
 ### Get Started
 
-Execute following command in `CommandLine` folder.
+Execute following command in `CommandLine` folder. It's equivalent to `Learner.exe` in the [documentation](http://infernet.azurewebsites.net/docs/Infer.NET%20Learners%20-%20Matchbox%20recommender%20-%20Command-line%20runners.aspx).
 
 ```bash
 dotnet run
