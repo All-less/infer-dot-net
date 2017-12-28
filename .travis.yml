@@ -7,3 +7,8 @@ install:
 
 script:
   - cd CommandLine && dotnet build
+
+ignore:
+  - LICENSE
+  - README.md
+  - .gitignore
