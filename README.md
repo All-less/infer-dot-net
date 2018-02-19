@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/All-less/infer-dot-net.svg?style=flat)](https://travis-ci.org/All-less/infer-dot-net)
 
-.NET Core port of [Infer.NET](http://research.microsoft.com/infernet).
+[.NET Core](https://www.microsoft.com/net/) port of [Infer.NET](http://research.microsoft.com/infernet).
 
 ### Setup
 
